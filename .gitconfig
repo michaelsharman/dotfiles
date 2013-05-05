@@ -1,0 +1,61 @@
+[user]
+	name = Michael Sharman
+	email = sharmo@gmail.com
+
+[color]
+	ui = auto
+
+[color "branch"]
+	current = yellow reverse
+	local = yellow
+	remote = green
+
+[color "diff"]
+	meta = yellow bold
+	frag = magenta bold
+	old = red bold
+	new = green bold
+
+[color "status"]
+	added = yellow
+	changed = green
+	untracked = cyan
+
+[color]
+	ui = true
+	diff = auto
+	status = auto
+	branch = auto
+	interactive = auto
+
+[color "diff"]
+	whitespace = red reverse
+
+[core]
+	whitespace=fix,-indent-with-non-tab,trailing-space,cr-at-eol
+	editor = vi 
+	excludesfile = /Users/michaelsharman/.gitignore_global
+[merge]
+	tool = filemerge 
+	summary = true
+	
+[alias]
+  co = checkout
+  ci = commit
+  di = diff
+  st = status -s -b
+  br = branch
+  hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+  type = cat-file -t
+  dump = cat-file -p
+  ls = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate
+  ll = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --numstat
+  lds = log --pretty=format:"%C(yellow)%h\\ %ad%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=short
+  ld = log --pretty=format:"%C(yellow)%h\\ %ad%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=relative
+  le = log --oneline --decorate
+  leg = log --oneline --decorate --graph
+  # list all aliases in .gitconfig
+  la = "!git config -l | grep alias | cut -c 7-"
+  timeline = log --graph --branches --pretty=oneline --decorate
+	lol = log --pretty=oneline --abbrev-commit --graph --decorate
+

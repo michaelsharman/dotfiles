@@ -1,0 +1,39 @@
+[
+	// SUBLIME DEFAULTS - MINI CHEAT SHEET
+	// http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html
+	// Comment single line 		Super+/
+	//							Super+Opt+/
+	// Comment multi line 		Super+Opt+/
+	// Delete line: 				Ctrl+Shift+K
+	//							Super+x
+	// Delete to end of line: 		Ctrl+K
+
+	// abort
+	{"keys": ["super+shift+a"], "command": "insert_snippet", "args": {"contents": "<cfabort>"}, "context": [{"key": "selector", "operator": "equal", "operand": "text.html.cfm", "match_all": true}]},
+	{"keys": ["super+shift+a"], "command": "insert_snippet", "args": {"contents": "abort;"}, "context": [{"key": "selector", "operator": "equal", "operand": "source.cfscript", "match_all": true}]},
+
+	// dump
+	{"keys": ["super+shift+d"], "command": "insert_snippet", "args": {"contents": "<cfdump var=\"#${0:$SELECTION}#\">"}, "context": [{"key": "selector", "operator": "equal", "operand": "text.html.cfm", "match_all": true}]},
+	{"keys": ["super+shift+d"], "command": "insert_snippet", "args": {"contents": "dump(var=${0:$SELECTION});"}, "context": [{ "key": "selector", "operator": "equal", "operand": "source.cfscript", "match_all": true}]},
+
+	// duplicate line
+	{"keys": ["super+alt+down"], "command": "duplicate_line"},
+	{"keys": ["super+alt+down"], "command": "duplicate_line", "args": {"contents": "${0:$SELECTION}\n"}, "context": [{"key": "text", "operator": "regex_contains", "operand": "\n"}]},
+
+	// cfoutput
+	{"keys": ["super+shift+o"], "command": "insert_snippet", "args": {"contents": "<cfoutput>${0:$SELECTION}</cfoutput>"}, "context": [{"key": "selector", "operator": "equal", "operand": "text.html.cfm", "match_all": true}]},
+	{"keys": ["super+shift+o"], "command": "insert_snippet", "args": {"contents": "writeOutput(${0:$SELECTION});"}, "context": [{ "key": "selector", "operator": "equal", "operand": "source.cfscript", "match_all": true}]},
+
+	// comment (single line)
+	{"keys": ["super+shift+m"], "command": "insert_snippet", "args": {"contents": "<!--- ${0:$SELECTION} --->"}, "context": [{"key": "text", "operator": "not_regex_contains", "operand": "\n"}, {"key": "selector", "operator": "equal", "operand": "text.html.cfm", "match_all": true}]},
+	{"keys": ["super+shift+m"], "command": "insert_snippet", "args": {"contents": "// ${0:$SELECTION}"}, "context": [{"key": "text", "operator": "not_regex_contains", "operand": "\n"}, {"key": "selector", "operator": "equal", "operand": "source.cfscript", "match_all": true}]},
+	// comment (multi line)
+	{"keys": ["super+shift+m"], "command": "insert_snippet", "args": {"contents": "<!--- ${0:$SELECTION} --->"}, "context": [{"key": "text", "operator": "regex_contains", "operand": "\n"}, {"key": "selector", "operator": "equal", "operand": "text.html.cfm", "match_all": true}]},
+	{"keys": ["super+shift+m"], "command": "insert_snippet", "args": {"contents": "/*${0:$SELECTION}*/"}, "context": [{"key": "text", "operator": "regex_contains", "operand": "\n"}, {"key": "selector", "operator": "equal", "operand": "source.cfscript", "match_all": true}]},
+
+	// pounds
+	{ "keys": ["super+shift+h"], "command": "insert_snippet", "args": {"contents": "#${0:$SELECTION}#" } },
+
+	// TODO
+	{"command": "todo", "keys": ["ctrl+shift+t"]}
+]

@@ -1,0 +1,32 @@
+#.gitignore
+
+# Railo files #
+######################
+WEB-INF/
+
+
+# Sublime files #
+######################
+*.sublime-project
+*.sublime-workspace
+
+
+# Vagrant files #
+######################
+.default.sparseimage
+programbuilder-image/
+
+
+# Misc files #
+######################
+*.buildpath
+*.settings
+.sass-cache/
+
+# OS generated files #
+######################
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+.project
