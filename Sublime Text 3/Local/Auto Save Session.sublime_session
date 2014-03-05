@@ -1,0 +1,1930 @@
+{
+	"folder_history":
+	[
+		"/Users/michaelsharman/vagrant/salt-developer/code/lib/scoring",
+		"/Users/michaelsharman/vagrant/salt-developer/code/service/scoring",
+		"/Users/michaelsharman/Documents/workspaces/postman-ln",
+		"/Users/michaelsharman/Documents/workspaces/POSTMan-Chrome-Extension",
+		"/Users/michaelsharman/Desktop/_learnosity/clients/hmh/import",
+		"/Users/michaelsharman/Desktop",
+		"/Users/michaelsharman/Desktop/_learnosity/clients/hmh/hmh",
+		"/Users/michaelsharman/Documents/workspaces/bos-studentsonline",
+		"/Users/michaelsharman/vagrant/salt-developer/code/api/questions",
+		"/Users/michaelsharman/Documents/workspaces/data-gui",
+		"/Users/michaelsharman/Desktop/Learnosity",
+		"/Users/michaelsharman/Desktop/_snippets",
+		"/Users/michaelsharman/Documents/workspaces/syllabus",
+		"/Users/michaelsharman/Desktop/data-toolbox",
+		"/Users/michaelsharman/Desktop/POSTMan-Chrome-Extension",
+		"/Volumes/scratch/Clients/HMH/Riverside 2013/imports/ftp_dump_20140203",
+		"/Users/michaelsharman/Desktop/update_activity_details",
+		"/Users/michaelsharman/Desktop/Opentok-PHP-SDK",
+		"/Users/michaelsharman/vagrant/salt-developer/logs/site/central",
+		"/Users/michaelsharman/vagrant/salt-developer/code/api/data",
+		"/Users/michaelsharman/Downloads/Alfred with License file v. 2.0.2",
+		"/Users/michaelsharman/Desktop/Alfred 2.1.1/Patch.app/Contents",
+		"/Users/michaelsharman/vagrant/salt-developer/code/site/author",
+		"/Users/michaelsharman/vagrant/salt-developer/code/api/questionsV2",
+		"/Users/michaelsharman/vagrant/salt-developer/code/api/author",
+		"/Users/michaelsharman/vagrant/salt-developer/code/api/reports",
+		"/Users/michaelsharman/vagrant/salt-developer/code/api/items",
+		"/Users/michaelsharman/Desktop/py",
+		"/Users/michaelsharman/vagrant/salt-developer/code/site/demos",
+		"/Users/michaelsharman/vagrant/salt-developer/code/site/learnosity",
+		"/Users/michaelsharman/Documents/workspaces/toolschapter31",
+		"/Users/michaelsharman/Documents/workspaces/tools.chapter31.com",
+		"/Users/michaelsharman/Documents/workspaces/chapter31.com",
+		"/Users/michaelsharman/Documents/workspaces/_archive",
+		"/Users/michaelsharman/Documents/workspaces/michaelsharman.com",
+		"/Users/michaelsharman/vagrant/salt-developer/code/api/assess",
+		"/Users/michaelsharman/vagrant/salt-developer/code/dexter",
+		"/Users/michaelsharman/vagrant/salt-developer/code/site/docs",
+		"/Users/michaelsharman/vagrant/salt-developer/code/service/sync",
+		"/Users/michaelsharman/Documents/workspaces/life",
+		"/Users/michaelsharman/Desktop/learnosity-poc",
+		"/Users/michaelsharman/Desktop/sqltoinsertccasexams",
+		"/Users/michaelsharman/Desktop/_learnosity/clients/hmh",
+		"/Users/michaelsharman/Desktop/security_examples",
+		"/Users/michaelsharman/vagrant/salt-developer/code/api/questioneditorV1",
+		"/Users/michaelsharman/vagrant/salt-developer/code/api/questioneditor",
+		"/Users/michaelsharman/vagrant/salt-developer/code/salt-states",
+		"/Users/michaelsharman/Desktop/tags_import",
+		"/Users/michaelsharman/Documents/workspaces/Joan_Saletrero",
+		"/Users/michaelsharman/Desktop/Joan_Saletrero",
+		"/Users/michaelsharman/Desktop/fwdfwstandardsspreadsheet",
+		"/Users/michaelsharman/vagrant/salt-developer/code/api",
+		"/Users/michaelsharman/Library/Application Support/Sublime Text 3/Packages/User",
+		"/Users/michaelsharman/Documents/workspaces/learnosity-php-examples"
+	],
+	"last_version": 3059,
+	"last_window_id": 433,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 988.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"per",
+						"percent_score"
+					],
+					[
+						"Va",
+						"Validator"
+					],
+					[
+						"Request",
+						"RequestHelper"
+					],
+					[
+						"L",
+						"LearnosityPackages"
+					],
+					[
+						"json",
+						"json_decode"
+					],
+					[
+						"me",
+						"metadata"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"list",
+						"list-style-type"
+					],
+					[
+						"font-s",
+						"font-style"
+					],
+					[
+						"js",
+						"json_decode"
+					],
+					[
+						"show",
+						"show_itemcount"
+					],
+					[
+						"array_mer",
+						"array_merge_recursive"
+					],
+					[
+						"html",
+						"htmlspecialchars"
+					],
+					[
+						"req",
+						"requestBody"
+					],
+					[
+						"act",
+						"activity"
+					],
+					[
+						"Ca",
+						"CacheHelper"
+					],
+					[
+						"Con",
+						"ConsumerFactory  (variable)"
+					],
+					[
+						"valid",
+						"validConsumerKeys"
+					],
+					[
+						"func_",
+						"func_get_args"
+					],
+					[
+						"consumer",
+						"consumerSettings"
+					],
+					[
+						"array_p",
+						"array_push"
+					],
+					[
+						"json_",
+						"json_encode"
+					],
+					[
+						"is_s",
+						"is_string  (function)"
+					],
+					[
+						"preg",
+						"preg_replace"
+					],
+					[
+						"con",
+						"consumerJSON"
+					],
+					[
+						"F",
+						"FETCH_COLUMN  (constant)"
+					],
+					[
+						"allowed",
+						"allowedParams"
+					],
+					[
+						"organi",
+						"organisation_id"
+					],
+					[
+						"array_k",
+						"array_key_exists"
+					],
+					[
+						"org",
+						"organisation_id"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"selected_items":
+				[
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Disable Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 601.0
+			},
+			"console":
+			{
+				"height": 174.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/tests/Scoring/Controllers/ScoringTest.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/tests/Utils/Versioning/VersionDirTest.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/LearnosityPackages/Utils/Versioning/Version.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/.gitignore",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/LearnosityPackages/ApiCore/Controllers/AbstractController.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/LearnosityPackages/Scoring/Controllers/Scoring.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/tests/Consumer/AuthenticationTest.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/phpunit.xml",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/sonar-project.properties",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/Learnosity/Dal/Sessions.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/Learnosity/Controllers/Sessions.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/Learnosity/Controllers/Users.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/LearnosityPackages/Utils/Database/QueryHelper.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/Learnosity/Dal/Schools.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/LearnosityPackages/ApiCore/Controllers/ItemBank.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/Learnosity/Controllers/ItemBank.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/LearnosityPackages/ApiCore/Dal/ItemBank.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/tests/Controllers/ItemBankControllerTest.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/Learnosity/Routes/itembank.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/docs/testHarness/postman/collections/dataapi/itembank.json",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/LearnosityPackages/Utils/Database/PdoHandler.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/LearnosityPackages/ApiCore/Utils/Request/Helper.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/tests/coverage/ApiCore_Utils_Request_Helper.php.html",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/LearnosityPackages/BaseControllers/IItems.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/Learnosity/Controllers/Schools.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/LearnosityPackages/ApiCore/www/index.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/LearnosityPackages/ApiCore/Config/app.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/LearnosityPackages/ApiCore/Config/bootstrap.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/tests/bootstrap.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/tests/coverage/css/bootstrap-responsive.min.css",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/slim/slim/tests/bootstrap.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/tests/coverage/js/bootstrap.min.js",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/tests/coverage/css/bootstrap.min.css",
+				"/Users/michaelsharman/Desktop/k-1.css",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/LearnosityPackages/Utils/Validation/Validator.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/docs/docs/versions.md",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/slim/slim/Slim/Router.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/README.md",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/amazonwebservices/aws-sdk-for-php/utilities/request.class.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/tests/coverage/Utils_Cache_Storage.html",
+				"/Users/michaelsharman/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/docs/testHarness/postman/environments/production-hmhccas-environment.json",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/sonar-project.properties",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/tests/bootstrap.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/phpunit.xml",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/LearnosityPackages/ApiCore/Dal/AbstractDal.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/Learnosity/Dal/Users.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/docs/testHarness/README.md",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/amazonwebservices/aws-sdk-for-php/lib/requestcore/LICENSE",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/phpunit/phpunit/PHPUnit/TextUI/ResultPrinter.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/docs/testHarness/postman/environments/sandbox-environment.json",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/Learnosity/Routes/sessions.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/LearnosityPackages/Questions/Dal/QuestionResponsePgSql.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/LearnosityPackages/Questions/Dal/QuestionResponseAWS.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/LearnosityPackages/Scoring/Models/Question.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/tests/coverage/Scoring_Models_Question_LongText.php.html",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/tests/coverage/Scoring_Models_Question.html",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/autoload.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/Learnosity/Controllers/AbstractControllerTrait.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/docs/testHarness/postman/environments/production-demo-environment.json",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/Learnosity/Controllers/AbstractController.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/phpunit/phpunit/Tests/TextUI/help.phpt",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/docs/testHarness/postman/environments/development-hmhccas-environment.json",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/tests/coverage/js/highcharts.js",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/LearnosityPackages/ApiCore/Controllers/System.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/tests/Utils/Validation/ValidatorTest.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/tests/ApiCore/Utils/Request/HelperTest.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/LearnosityPackages/ApiCore/Controllers/Services.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/Learnosity/Dal/AbstractDal.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/tests/Utils/Request/HelperTest.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/phpunit/phpunit/PHPUnit/Util/Test.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/config/system-config.ini",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/phpunit/php-code-coverage/build/PHPCS/Sniffs/ControlStructures/ControlSignatureSniff.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/phpunit/php-code-coverage/CONTRIBUTING.md",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/config/config.ini",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/Learnosity/Dal/Activities.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/LearnosityPackages/Consumer/Dal/IConsumer.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/phpunit/phpunit/Tests/TextUI/dataprovider-log-xml.phpt",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/docs/testHarness/postman/environments/development-acer-environment.json",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/LearnosityPackages/Utils/General/simple_html_dom.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/amazonwebservices/aws-sdk-for-php/utilities/simplexml.class.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/phpunit/phpunit/Tests/TextUI/strict-incomplete.phpt",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/phpunit/phpunit/PHPUnit/Framework/Constraint/IsTrue.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/www/index.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/slim/slim/Slim/Http/Request.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/slim/slim/Slim/Slim.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/slim/slim/Slim/Route.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/docs/testHarness/postman/environments/qa-environment.json",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/Learnosity/Routes/users.php",
+				"/Users/michaelsharman/Documents/workspaces/life/static/js/jquery-2.0.3.min.js",
+				"/Users/michaelsharman/Desktop/adaptiveitemsdefinition",
+				"/Users/michaelsharman/Documents/workspaces/life/life.example.md",
+				"/Users/michaelsharman/Documents/workspaces/life/config.example.json",
+				"/Users/michaelsharman/Documents/workspaces/life/static/css/main.css",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/config.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/assessment/items/index.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/index.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/authorapi.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/itemsapi_inline.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/itemsapi_assess.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/src/utils/RequestHelper.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/src/includes/nav.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/questioneditorapi.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/static/css/main.css",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/src/views/modals/initialisation-preview.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/static/vendor/codemirror/codemirror.css",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/security_check.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/questionsapi.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/static/js/securityCheck.js",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/src/includes/header.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/ssoapi.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/src/views/modals/settings-items.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/assessapi.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/src/views/modals/asset-upload.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/static/js/main.js",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/xhr.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/reportsapi.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/itemsapi.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/src/views/modals/itemsinline.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/static/vendor/ace/ace.js",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/LearnosityPackages/Utils/Datetime/Dates.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/stable/Learnosity/Dal/Users.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/stable/Learnosity/Controllers/Users.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/docs/testHarness/postman/collections/dataapi/services.json",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/docs/testHarness/postman/collections/dataapi/users.json",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/docs/testHarness/postman/collections/dataapi/sessions.json",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/docs/testHarness/postman/collections/learnositypackages/system.json",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/docs/testHarness/postman/collections/dataapi/tests.json"
+			],
+			"find":
+			{
+				"height": 42.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+					"<project>",
+					"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/tests",
+					"<project>, *.php",
+					"/Users/michaelsharman/vagrant/salt-developer/code/api/data/, *.php",
+					"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/Learnosity/Controllers",
+					"<project>, *.php",
+					"<project>",
+					"<project>, *.php",
+					"<project>",
+					"/Users/michaelsharman/vagrant/salt-developer/code/api/data",
+					"/Users/michaelsharman/vagrant/salt-developer/code/services/sync",
+					"/Users/michaelsharman/vagrant/salt-developer/code/api/data/",
+					"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/slim",
+					"<project>"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"getDatasourceByType",
+					"getDatasourceByType('questionresponses')",
+					"getDatasourceByType",
+					"getDatasourceByType('questionresponses')",
+					"getItemBankServices",
+					"getItemBankService",
+					"getItemBankServices",
+					"getOrganisationId",
+					"getor",
+					"org",
+					"getOrganisationId",
+					",",
+					"\"",
+					"validateItemExists",
+					"getExistingItemsByReference",
+					"getItems",
+					"preserve_reference_order",
+					"json",
+					"catch",
+					"try",
+					"catch",
+					"json",
+					"QueryHelper::decodeJsonColumns",
+					"id",
+					"getActivities",
+					"references",
+					"s.",
+					"references",
+					"this->",
+					"section",
+					"$paths =",
+					"APPDIR",
+					"rout",
+					"getTestResponses(",
+					"gettestRe",
+					"published",
+					"refs",
+					"references",
+					"publishedOnly",
+					"RequestHelper::isInt",
+					"RequestHelper",
+					"lint",
+					"progress",
+					"src/latest/",
+					"beginTransaction",
+					"beginTransaction(",
+					"dbh",
+					"catch",
+					"getdal",
+					"$this->classP",
+					"dataSourceType",
+					"getDal",
+					"classp",
+					"$class",
+					"dxt-prod-sql-ca.cname.lninfra.net",
+					"BHI",
+					"AbstractController",
+					"AbstractControllerTrait",
+					"getMax",
+					"RequestHelper::checkBoolean",
+					"RequestHelper::checkBoolean(",
+					"checkBoolean",
+					"Helper",
+					"dates",
+					"Validator",
+					"isint",
+					"valid",
+					"Validator::",
+					"`",
+					"Validator::",
+					"::",
+					"Validator::ch",
+					"Validator",
+					"Validator::checkInt",
+					"Validator::isInt",
+					"Validator::checkInt",
+					"Validator::checkI",
+					"Validator::",
+					"::",
+					"Validator::checkBoolean",
+					"::",
+					"::isInt",
+					"isInt",
+					"Validator::isI",
+					"Validator:",
+					"Validator::checkBoolean",
+					"checkBoolean",
+					"::",
+					"validi",
+					"minma",
+					"Missing mandatory parameter(s)",
+					"isValidN",
+					"isvalidnext",
+					"isvalidmi",
+					"minmax",
+					"isval",
+					"isValidMinMaxTime",
+					"dbParams",
+					"isValidMinMaxTime",
+					"maxi",
+					"getMaxItems",
+					"protected ",
+					"cast",
+					"checkBoolean",
+					"Validator::checkBoolean",
+					"getBoolean",
+					"$this->getBoolean",
+					"getBoo",
+					"Validator",
+					"getBoolean",
+					"LN_E_AUTHENTICATION_MISSING_ORG_ID",
+					"publishedOnly",
+					"getDbh(",
+					"Consumer",
+					"Data API\n\n25bcba0 [FEATURE] Data API endpoint to create items and questions\n6a7b699 [REFACTOR] Cast endpoints returning counts to be integers\n\nLearnosity Packages\n\n3aaad20 [FEATURE] add requestedApiVersion so that it can be referenced from Questions API v2 and other APIs later\naac3f4e [BUG] Fixed issue where a null value wasn't being recognised by RemoveColumns\nd374f3e [REFACTOR] Regrouped adaptive properties for the items endpoint\n24e6a09 [FEATURE] add support to save questions\nb0facd3 [FEATURE] Data API endpoint to create items\n1534d56 [FEATURE] Data API endpoint to tag items\n79b39fb [FEATURE] refactor data api endpoints to handle items save with transaction https://app.asana.com/0/5718865391679/8931702923886\n9ee0089 [REFACTOR] Cast endpoints returning counts to be integers instead of strings https://app.asana.com/0/5379245300128/9404524455531",
+					"consumer",
+					"else if",
+					"PHP_EOL ;",
+					"count",
+					"castColum",
+					"cast",
+					"count_",
+					"count_tags",
+					"ui",
+					"transaction(",
+					"beginTransaction",
+					"beginTransaction(",
+					"difficulty"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"ActivitiesDal",
+					"mapUsersProductsActivities",
+					"activities_per_product",
+					"obj_activities",
+					"users_activities",
+					"all_activities",
+					"$app->environment()->Consumer",
+					"$this->pdoHandler",
+					"$app->view()->run($data, $request);",
+					"$this->config",
+					"createDomElementFromHtmlFragment(",
+					"getBasicXml(",
+					"generateQti(",
+					"getSdk()",
+					"{{URL-data}}",
+					"172",
+					"APICore",
+					"use \\LearnosityPackages\\Utils\\Validation\\Validator;",
+					"use \\LearnosityPackages\\Utils\\Database\\QueryHelper;",
+					"use \\LearnosityPackages\\Utils\\Database\\PDOHandler;",
+					"use \\LearnosityPackages\\Utils\\Datetime\\Dates;",
+					"use \\LearnosityPackages\\Utils\\API\\APIResponseHelper;",
+					"use \\LearnosityPackages\\Utils\\Log\\Logger",
+					"use \\LearnosityPackages\\Utils\\File\\IniConfig",
+					"QueryHelper::removeColumns(",
+					"self::",
+					"public static function",
+					"paramBindings",
+					"allowedBindings"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.vcs":
+			{
+				"height": 142.0
+			},
+			"output.xdebug":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"query",
+						"src/latest/vendor/learnositypackages/LearnosityPackages/Utils/Database/QueryHelper.php"
+					],
+					[
+						"itembank",
+						"src/latest/vendor/learnositypackages/LearnosityPackages/ApiCore/Controllers/ItemBank.php"
+					],
+					[
+						"requesthelper",
+						"src/latest/vendor/learnositypackages/LearnosityPackages/ApiCore/Utils/Request/Helper.php"
+					],
+					[
+						"queryh",
+						"src/latest/vendor/learnositypackages/LearnosityPackages/Utils/Database/QueryHelper.php"
+					],
+					[
+						"boo",
+						"src/latest/tests/bootstrap.php"
+					],
+					[
+						"valid",
+						"src/latest/vendor/learnositypackages/LearnosityPackages/Utils/Validation/Validator.php"
+					],
+					[
+						"helper",
+						"src/latest/vendor/learnositypackages/LearnosityPackages/ApiCore/Utils/Request/Helper.php"
+					],
+					[
+						"user",
+						"src/latest/Learnosity/Controllers/Users.php"
+					],
+					[
+						"item",
+						"src/latest/Learnosity/Controllers/ItemBank.php"
+					],
+					[
+						"sessions",
+						"src/latest/Learnosity/Dal/Sessions.php"
+					],
+					[
+						"pdo",
+						"src/latest/vendor/learnositypackages/LearnosityPackages/Utils/Database/PdoHandler.php"
+					],
+					[
+						"questionresponsepgsq",
+						"src/latest/vendor/learnositypackages/LearnosityPackages/Questions/Dal/QuestionResponsePgSql.php"
+					],
+					[
+						"questionre",
+						"src/latest/vendor/learnositypackages/LearnosityPackages/Questions/Dal/QuestionResponsePgSql.php"
+					],
+					[
+						"ab",
+						"src/latest/vendor/learnositypackages/LearnosityPackages/ApiCore/Controllers/AbstractController.php"
+					],
+					[
+						"abst",
+						"src/latest/vendor/learnositypackages/LearnosityPackages/ApiCore/Controllers/AbstractController.php"
+					],
+					[
+						"controllers/it",
+						"src/latest/Learnosity/Controllers/ItemBank.php"
+					],
+					[
+						"dal/item",
+						"src/latest/vendor/learnositypackages/LearnosityPackages/ApiCore/Dal/ItemBank.php"
+					],
+					[
+						"sim",
+						"src/latest/vendor/learnositypackages/LearnosityPackages/Utils/General/simple_html_dom.php"
+					],
+					[
+						"router",
+						"src/latest/vendor/slim/slim/Slim/Router.php"
+					],
+					[
+						"req",
+						"src/utils/RequestHelper.php"
+					],
+					[
+						"que",
+						"www/questioneditorapi.php"
+					],
+					[
+						"head",
+						"src/includes/header.php"
+					],
+					[
+						"nav",
+						"src/includes/nav.php"
+					],
+					[
+						"main",
+						"www/static/css/main.css"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+					[
+						"da",
+						"/Users/michaelsharman/vagrant/salt-developer/code/api/data/data.sublime-project"
+					],
+					[
+						"de",
+						"/Users/michaelsharman/vagrant/salt-developer/code/dexter/dexter.sublime-project"
+					],
+					[
+						"do",
+						"/Users/michaelsharman/vagrant/salt-developer/code/sites/api_docs/api-docs.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 275.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1920.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"tex",
+						"text-transform"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"get",
+						"getResourceType"
+					],
+					[
+						"json_",
+						"json_decode"
+					],
+					[
+						"json",
+						"json_decode"
+					],
+					[
+						"consu",
+						"consumer_secret"
+					],
+					[
+						"stu",
+						"student_json"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"list",
+						"list-style-type"
+					],
+					[
+						"font-s",
+						"font-style"
+					],
+					[
+						"js",
+						"json_decode"
+					],
+					[
+						"show",
+						"show_itemcount"
+					],
+					[
+						"array_mer",
+						"array_merge_recursive"
+					],
+					[
+						"html",
+						"htmlspecialchars"
+					],
+					[
+						"req",
+						"requestBody"
+					],
+					[
+						"act",
+						"activity"
+					],
+					[
+						"Ca",
+						"CacheHelper"
+					],
+					[
+						"Con",
+						"ConsumerFactory  (variable)"
+					],
+					[
+						"valid",
+						"validConsumerKeys"
+					],
+					[
+						"func_",
+						"func_get_args"
+					],
+					[
+						"consumer",
+						"consumerSettings"
+					],
+					[
+						"array_p",
+						"array_push"
+					],
+					[
+						"is_s",
+						"is_string  (function)"
+					],
+					[
+						"preg",
+						"preg_replace"
+					],
+					[
+						"con",
+						"consumerJSON"
+					],
+					[
+						"F",
+						"FETCH_COLUMN  (constant)"
+					],
+					[
+						"allowed",
+						"allowedParams"
+					],
+					[
+						"organi",
+						"organisation_id"
+					],
+					[
+						"array_k",
+						"array_key_exists"
+					],
+					[
+						"org",
+						"organisation_id"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/assessment/items/itemsapi_assess.php",
+					"settings":
+					{
+						"buffer_size": 5552,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/assessment/items/itemsapi_inline.php",
+					"settings":
+					{
+						"buffer_size": 3006,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/static/js/dataapi/formToObject.js",
+					"settings":
+					{
+						"buffer_size": 2733,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/assessment/items/itemsapi_workedsolutions.php",
+					"settings":
+					{
+						"buffer_size": 5885,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"selected_items":
+				[
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Disable Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 601.0
+			},
+			"console":
+			{
+				"height": 174.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/src/views/modals/settings-items.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/misc/security_check.php",
+				"/Users/michaelsharman/Library/Application Support/Sublime Text 3/Packages/Theme - Default/Default.sublime-theme",
+				"/Users/michaelsharman/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/src/utils/RequestHelper.php",
+				"/Users/michaelsharman/Library/Application Support/Sublime Text 3/Packages/IceWorld Color Scheme/Dark.tmTheme",
+				"/Users/michaelsharman/Library/Application Support/Sublime Text 3/Installed Packages/Theme - Spacegray.sublime-package",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/authoring/activities/index.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/assessment/items/itemsapi_adaptive.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/index.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/assessment/items/itemsapi_inline.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/assessment/questions/questiontypes.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/assessment/questions/index.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/authoring/questioneditor/index.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/src/views/modals/items-inline.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/assessment/items/itemsapi_assess.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/reporting/data/index.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/src/includes/header.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/xhr.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/static/js/dataapi/dataApiRequest.js",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/config.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/static/css/main.css",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/reporting/data/schools/classes.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/reporting/data/itembank/tags.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/reporting/data/users/users.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/reporting/data/schools/schools.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/reporting/data/itembank/items.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/reporting/data/itembank/questions.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/reporting/data/sessions/responses.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/reporting/data/users/activities.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/reporting/data/users/statuses.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/static/js/formToJson.js",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/reporting/data/dataapi_users.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/authoring/author/index.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/example.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/assessment/assess/index.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/jsp/www/assessment/items/itemsapi_assess.jsp",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/src/includes/footer.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/README.md",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/assessment/questions/formula.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/static/vendor/ace/ace-builds/src-min-noconflict/mode-json.js",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/static/vendor/ace/ace-builds/src-min-noconflict/worker-json.js",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/src/views/modals/initialisation-preview.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/src/utils/PostHelper.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/assessment/questions/featuretypes.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/.gitignore",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/src/utils/Json.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/reporting/reports/index.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/reporting/sso/index.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/src/includes/nav.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/static/vendor/jquery/jquery-1.10.2.min.js",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/jsp/www/includes/header.jsp",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/static/vendor/jquery/jquery-1.11.0.min.js",
+				"/Users/michaelsharman/Desktop/k-1.css",
+				"/Users/michaelsharman/Desktop/wt-demo-k1.css",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/jsp/www/static/vendor/classList.js",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/static/vendor/classList.js",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/src/utils/uuid.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/assessment/items/itemsapi_workedsolutions.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/assessment/questions/graphplotting.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/static/js/securityCheck.js",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/static/vendor/bootstrap/css/bootstrap-theme.min.css",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/static/vendor/bootstrap/css/bootstrap-theme.css",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/static/vendor/ace/ace-builds/src-min-noconflict/theme-clouds.js",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/static/vendor/reveal/reveal.css",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/static/fonts/museo300-regular-webfont.svg",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/assessment/items/custom.css",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/jsp/www/views/modals/asset-upload.jsp",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/src/utils/UrlGenerator.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/jsp/www/static/js/securityCheck.js",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/assessment/items/index.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/src/views/modals/asset-upload.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/static/js/codemirror/mode/php/php.js",
+				"/Users/michaelsharman/Desktop/CCAS_T2_Math_Grades_K_and_1_Test_Map.sql",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/environment.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/src/utils/signature.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/static/fonts/museo300-regular-webfont.woff",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/static/vendor/sha256.js",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/jsp/www/static/vendor/ace/ace-builds/src-min-noconflict/theme-clouds.js",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/jsp/www/static/vendor/ace/ace-builds/src-min-noconflict/mode-html.js",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/static/vendor/ace/ace-builds/src-min-noconflict/mode-html.js",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/static/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/assessment/items/client.css",
+				"/Users/michaelsharman/Documents/workspaces/life/static/js/jquery-2.0.3.min.js",
+				"/Users/michaelsharman/Desktop/adaptiveitemsdefinition",
+				"/Users/michaelsharman/Documents/workspaces/life/life.example.md",
+				"/Users/michaelsharman/Documents/workspaces/life/config.example.json",
+				"/Users/michaelsharman/Documents/workspaces/life/static/css/main.css",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/authorapi.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/itemsapi_inline.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/itemsapi_assess.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/questioneditorapi.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/static/vendor/codemirror/codemirror.css",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/security_check.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/questionsapi.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/ssoapi.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/assessapi.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/static/js/main.js",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/reportsapi.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/itemsapi.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/src/views/modals/itemsinline.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/static/vendor/ace/ace.js",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/sonar-project.properties",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/Learnosity/Controllers/Users.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/LearnosityPackages/Utils/Datetime/Dates.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/stable/Learnosity/Dal/Users.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/stable/Learnosity/Controllers/Users.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/Learnosity/Routes/users.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/docs/testHarness/postman/collections/dataapi/services.json",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/docs/testHarness/postman/collections/dataapi/users.json",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/docs/testHarness/postman/collections/dataapi/sessions.json",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/docs/testHarness/postman/collections/learnositypackages/system.json",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/docs/testHarness/postman/collections/dataapi/tests.json",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/docs/testHarness/postman/collections/dataapi/scoring.json",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/docs/testHarness/postman/collections/dataapi/schools.json",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/docs/testHarness/postman/collections/dataapi/itembank.json",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/Learnosity/Controllers/Schools.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/LearnosityPackages/Utils/Api/ApiResponseHelper.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/LearnosityPackages/ApiCore/Exceptions/BaseCustomException.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/LearnosityPackages/Consumer/Authentication.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/tests/Consumer/AuthenticationTest.php",
+				"/Users/michaelsharman/Desktop/sig.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/tests/Utils/Validation/ValidatorTest.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/stable/Learnosity/Routes/users.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/learnositypackages/LearnosityPackages/Utils/Validation/Validator.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/Learnosity/Dal/Users.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/stable/Learnosity/Dal/Activities.php",
+				"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/stable/Learnosity/Dal/AbstractDal.php"
+			],
+			"find":
+			{
+				"height": 42.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+					"<project>",
+					"<project>, *.js",
+					"<project>, *.php",
+					"<project>, *.php, *.js",
+					"<project>",
+					"<project>, *.php",
+					"<project>",
+					"<project>, *.php",
+					"<project>",
+					"/Users/michaelsharman/vagrant/salt-developer/code/api/data",
+					"/Users/michaelsharman/vagrant/salt-developer/code/services/sync",
+					"/Users/michaelsharman/vagrant/salt-developer/code/api/data/",
+					"/Users/michaelsharman/vagrant/salt-developer/code/api/data/src/latest/vendor/slim",
+					"<project>"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"container",
+					"bold",
+					"demo16",
+					"question-demo16",
+					"submitToApi",
+					"debu",
+					"The 'next' value is returned from an initial call to the Data API. Use it to retrieve the next pageset of results.",
+					"accordion",
+					">next",
+					"next page",
+					" api-property",
+					"RequestHelper",
+					"PostHelper",
+					"post",
+					"demo6",
+					"question-demo6-",
+					"67658325-edd1-44ec-9e65-41ec7601b991",
+					"ccas",
+					"'",
+					"d",
+					"tab-req",
+					"tab-request-json",
+					"</script",
+					"users-",
+					"sm-",
+					"contai",
+					"Invalid request JSON",
+					"must be an array",
+					"requestpa",
+					"?>);\n",
+					"editor",
+					"type",
+					"<form",
+					"this->debug",
+					"self::DEBUG",
+					"endpoint",
+					"DataApi",
+					"OUTPUTJSONSTRING",
+					"date_default_timezone_set",
+					"setHeader(",
+					"setHeader",
+					", , ",
+					"#initialisation-preview",
+					"preview-body",
+					"preview",
+					"security",
+					"74c5fd430cf1242a527f6223aebd42d30464be22",
+					"custom.css",
+					"repor",
+					"input-group",
+					"logo",
+					"time",
+					"scrolling_indicator",
+					"show_pause",
+					"1.10.2",
+					"  ",
+					"script",
+					"assess/",
+					"asses/",
+					"/latest",
+					"ui ",
+					".vg",
+					"version",
+					"$$",
+					"configuration",
+					"$con",
+					"top",
+					"horizontal-fixed",
+					"ui_style",
+					"assessApiV",
+					"/static",
+					"$paths",
+					"\"",
+					".js",
+					"\"",
+					"',",
+					"\"",
+					"comms",
+					"http:",
+					"http://",
+					"requirejs",
+					"demo12",
+					"Cloze (fill in",
+					"question-demo7",
+					"Complete the multiplication table below",
+					"The student needs to fill in the blanks",
+					"$thispage",
+					"$protocol",
+					"../..",
+					"../../includes",
+					"../../views",
+					"../../",
+					"../src",
+					"../src/",
+					"../src/views",
+					"../src/",
+					"../src/utils/",
+					"inclu",
+					"../src",
+					"../src/includes",
+					"../src/",
+					"?>",
+					"\"",
+					"feedback",
+					"%'\n",
+					"\"",
+					"'],",
+					"\"",
+					"vg.",
+					"requestPath",
+					"hasWWW",
+					"basePath",
+					"subDir",
+					"/static",
+					"Next ",
+					"next",
+					"/static",
+					"'/",
+					"../../../src/",
+					"$pathArr[1]",
+					"'/",
+					"subpage",
+					"subpa",
+					"static",
+					"config.php",
+					"currentPage",
+					"current",
+					"/static"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"The 'next' value may be returned from an initial call to the Data API. Use it to retrieve the next pageset of results if there are any.",
+					"next",
+					"includes",
+					"views",
+					"utils/",
+					"includes",
+					"ActivitiesDal",
+					"mapUsersProductsActivities",
+					"activities_per_product",
+					"obj_activities",
+					"users_activities",
+					"all_activities",
+					"$app->environment()->Consumer",
+					"$this->pdoHandler",
+					"$app->view()->run($data, $request);",
+					"$this->config",
+					"createDomElementFromHtmlFragment(",
+					"getBasicXml(",
+					"generateQti(",
+					"getSdk()",
+					"{{URL-data}}",
+					"172",
+					"APICore",
+					"use \\LearnosityPackages\\Utils\\Validation\\Validator;",
+					"use \\LearnosityPackages\\Utils\\Database\\QueryHelper;",
+					"use \\LearnosityPackages\\Utils\\Database\\PDOHandler;",
+					"use \\LearnosityPackages\\Utils\\Datetime\\Dates;",
+					"use \\LearnosityPackages\\Utils\\API\\APIResponseHelper;",
+					"use \\LearnosityPackages\\Utils\\Log\\Logger",
+					"use \\LearnosityPackages\\Utils\\File\\IniConfig",
+					"QueryHelper::removeColumns(",
+					"self::",
+					"public static function",
+					"paramBindings",
+					"allowedBindings"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/assessment/items/itemsapi_assess.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5552,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5243,
+										5243
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 2362.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/assessment/items/itemsapi_inline.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3006,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1219,
+										1219
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 454.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/static/js/dataapi/formToObject.js",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 2733,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": -0.0,
+								"translation.y": 342.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/michaelsharman/vagrant/salt-developer/code/site/demos/www/assessment/items/itemsapi_workedsolutions.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5885,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.vcs":
+			{
+				"height": 142.0
+			},
+			"output.xdebug":
+			{
+				"height": 0.0
+			},
+			"position": "0 48 1920 1010 0 0 1920 1058 ",
+			"project": "demos.sublime-project",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"sett",
+						"src/views/modals/settings-items.php"
+					],
+					[
+						"questiont",
+						"www/assessment/questions/questiontypes.php"
+					],
+					[
+						"item",
+						"src/views/modals/items-inline.php"
+					],
+					[
+						"xh",
+						"www/xhr.php"
+					],
+					[
+						"con",
+						"www/config.php"
+					],
+					[
+						"he",
+						"src/includes/header.php"
+					],
+					[
+						"da",
+						"www/static/js/dataapi/dataApiRequest.js"
+					],
+					[
+						"req",
+						"src/utils/RequestHelper.php"
+					],
+					[
+						"xhr",
+						"www/xhr.php"
+					],
+					[
+						"head",
+						"src/includes/header.php"
+					],
+					[
+						"mai",
+						"www/static/css/main.css"
+					],
+					[
+						"qestione",
+						"www/authoring/questioneditor/index.php"
+					],
+					[
+						"assess",
+						"www/assessment/assess/index.php"
+					],
+					[
+						"hea",
+						"src/includes/header.php"
+					],
+					[
+						"foo",
+						"src/includes/footer.php"
+					],
+					[
+						"css",
+						"www/static/css/main.css"
+					],
+					[
+						"au",
+						"www/authoring/author/index.php"
+					],
+					[
+						"pre",
+						"src/views/modals/initialisation-preview.php"
+					],
+					[
+						"questione",
+						"www/authoring/questioneditor/index.php"
+					],
+					[
+						"for",
+						"www/assessment/questions/formula.php"
+					],
+					[
+						".css",
+						"www/static/css/main.css"
+					],
+					[
+						"nav",
+						"src/includes/nav.php"
+					],
+					[
+						"main",
+						"www/static/css/main.css"
+					],
+					[
+						"items",
+						"www/assessment/items/itemsapi_assess.php"
+					],
+					[
+						"ass",
+						"www/assessment/assess/index.php"
+					],
+					[
+						"questioneditor",
+						"www/authoring/questioneditor/index.php"
+					],
+					[
+						"worked",
+						"www/assessment/items/itemsapi_workedsolutions.php"
+					],
+					[
+						"question",
+						"www/assessment/questions/index.php"
+					],
+					[
+						"setting",
+						"src/views/modals/settings-items.php"
+					],
+					[
+						"repor",
+						"www/reporting/reports/index.php"
+					],
+					[
+						"ite",
+						"www/assessment/items/itemsapi_assess.php"
+					],
+					[
+						"reports",
+						"www/reporting/reports/index.php"
+					],
+					[
+						"sec",
+						"www/misc/security_check.php"
+					],
+					[
+						"asses",
+						"www/assessment/items/itemsapi_assess.php"
+					],
+					[
+						"header",
+						"src/includes/header.php"
+					],
+					[
+						"feature",
+						"www/assessment/questions/featuretypes.php"
+					],
+					[
+						"authoring",
+						"www/authoring/questioneditor/index.php"
+					],
+					[
+						"inli",
+						"www/assessment/items/itemsapi_inline.php"
+					],
+					[
+						"initia",
+						"src/views/modals/initialisation-preview.php"
+					],
+					[
+						"preview",
+						"src/views/modals/initialisation-preview.php"
+					],
+					[
+						"author",
+						"www/authoring/author/index.php"
+					],
+					[
+						"secu",
+						"www/misc/security_check.php"
+					],
+					[
+						"sso",
+						"www/reporting/sso/index.php"
+					],
+					[
+						"na",
+						"src/includes/nav.php"
+					],
+					[
+						"sso/i",
+						"www/reporting/sso/index.php"
+					],
+					[
+						"work",
+						"www/assessment/items/itemsapi_workedsolutions.php"
+					],
+					[
+						"autho",
+						"www/authoring/author/index.php"
+					],
+					[
+						"re",
+						"src/utils/RequestHelper.php"
+					],
+					[
+						"report",
+						"www/reporting/reports/index.php"
+					],
+					[
+						"que",
+						"www/questioneditorapi.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+					[
+						"de",
+						"~/vagrant/salt-developer/code/site/demos/demos.sublime-workspace"
+					],
+					[
+						"da",
+						"/Users/michaelsharman/vagrant/salt-developer/code/api/data/data.sublime-project"
+					],
+					[
+						"do",
+						"/Users/michaelsharman/vagrant/salt-developer/code/sites/api_docs/api-docs.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+				"xdebug":
+				{
+					"hide_conflict": false
+				}
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 275.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 433,
+			"workspace_name": "/Users/michaelsharman/Documents/sublime_projects/demos.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/Users/michaelsharman/Documents/sublime_projects/data.sublime-workspace",
+			"/Users/michaelsharman/Documents/sublime_projects/demos.sublime-workspace",
+			"/Users/michaelsharman/Documents/sublime_projects/snippets.sublime-workspace",
+			"/Users/michaelsharman/vagrant/salt-developer/code/lib/scoring/scoring-lib.sublime-workspace",
+			"/Users/michaelsharman/Documents/sublime_projects/scoring-service.sublime-workspace",
+			"/Users/michaelsharman/Documents/sublime_projects/scoring.sublime-workspace",
+			"/Users/michaelsharman/Documents/sublime_projects/docs.sublime-workspace",
+			"/Users/michaelsharman/Documents/sublime_projects/postman-ln.sublime-workspace",
+			"/Users/michaelsharman/Documents/sublime_projects/data-gui.sublime-workspace",
+			"/Users/michaelsharman/Documents/sublime_projects/questions-api-v2.sublime-workspace",
+			"/Users/michaelsharman/Documents/sublime_projects/authoring.sublime-workspace",
+			"/Users/michaelsharman/Documents/sublime_projects/assess.sublime-workspace",
+			"/Users/michaelsharman/Documents/sublime_projects/items.sublime-workspace",
+			"/Users/michaelsharman/Documents/sublime_projects/dexter.sublime-workspace",
+			"/Users/michaelsharman/Documents/sublime_projects/author-api.sublime-workspace",
+			"/Users/michaelsharman/Documents/sublime_projects/reports.sublime-workspace",
+			"/Users/michaelsharman/Documents/sublime_projects/sync.sublime-workspace",
+			"/Users/michaelsharman/Documents/sublime_projects/learnosity.sublime-workspace",
+			"/Users/michaelsharman/Documents/sublime_projects/michaelsharman.sublime-workspace",
+			"/Users/michaelsharman/Documents/sublime_projects/tools.sublime-workspace",
+			"/Users/michaelsharman/Documents/sublime_projects/chapter31.sublime-workspace",
+			"/Users/michaelsharman/vagrant/salt-developer/code/api/items/items.sublime-workspace",
+			"/Users/michaelsharman/vagrant/salt-developer/code/site/demos/demos.sublime-workspace",
+			"/Users/michaelsharman/vagrant/salt-developer/code/service/sync/sync-service.sublime-workspace",
+			"/Users/michaelsharman/vagrant/salt-developer/code/site/docs/docs.sublime-workspace",
+			"/Users/michaelsharman/vagrant/salt-developer/code/api/data/data.sublime-workspace",
+			"/Users/michaelsharman/vagrant/salt-developer/code/api/reports/reports.sublime-workspace",
+			"/Users/michaelsharman/vagrant/salt-developer/code/salt-states/salt-states.sublime-workspace",
+			"/Users/michaelsharman/vagrant/salt-developer/code/api/questionsV2/questions-api-v2.sublime-workspace",
+			"/Users/michaelsharman/vagrant/salt-developer/code/api/questioneditor/questioneditor.sublime-workspace",
+			"/Users/michaelsharman/vagrant/salt-developer/code/api/questioneditorV1/questioneditor-v1.sublime-workspace",
+			"/Users/michaelsharman/vagrant/salt-developer/code/api/author/author-api.sublime-workspace"
+		]
+	}
+}

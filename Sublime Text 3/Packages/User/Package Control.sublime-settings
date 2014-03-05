@@ -1,0 +1,28 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Dayle Rees Color Schemes",
+		"DocBlockr",
+		"Enhanced HTML and CFML",
+		"FileDiffs",
+		"HTMLBeautify",
+		"IceWorld Color Scheme",
+		"JSHint Gutter",
+		"PHP-Twig",
+		"Phpcs",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"sublimelint",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-jshint",
+		"SublimeLinter-phpcs",
+		"Theme - Phoenix",
+		"Theme - Spacegray",
+		"VAlign",
+		"Xdebug Client"
+	]
+}

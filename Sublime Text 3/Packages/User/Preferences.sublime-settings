@@ -1,0 +1,50 @@
+{
+	"bold_folder_labels": false,
+	"color_scheme": "Packages/User/Dark (SL).tmTheme",
+	"detect_indentation": false,
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "monaco",
+	"font_size": 14.0,
+	"highlight_line": false,
+	"ignored_packages":
+	[
+		"Phpcs",
+		"Xdebug",
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"mid_line_tabs": false,
+	"phoenix_blur_current_tab": false,
+	"phoenix_color_blue": true,
+	"phoenix_color_expanded_folder": true,
+	"phoenix_solid_current_tab": true,
+	"show_full_path": true,
+	"soda_classic_tabs": true,
+	"tab_size": 4,
+	"theme": "Spacegray.sublime-theme",
+	"todo":
+	{
+		"case_sensitive": true,
+		"file_exclude_patterns":
+		[
+			"*.css",
+			".gitignore",
+			".gitmodules",
+			".project",
+			"*.sublime-project",
+			"*.sublime-workspace"
+		],
+		"folder_exclude_patterns":
+		[
+			"vendor",
+			"tmp",
+			".settings",
+			"WEB-INF"
+		],
+		"result_title": "TODO Results"
+	},
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true
+}
