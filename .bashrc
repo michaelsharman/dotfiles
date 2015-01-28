@@ -57,6 +57,7 @@ function parse_git_branch() {
 # Change this symbol to something sweet.
 # (http://en.wikipedia.org/wiki/Unicode_symbols)
 #symbol="⚡ "
+symbol="$ "
 
 export PS1="\[${BOLD}${MAGENTA}\]\u \[$WHITE\]in \[$GREEN\]\w\[$WHITE\]\$([[ -n \$(git branch 2> /dev/null) ]] && echo \" on \")\[$PURPLE\]\$(parse_git_branch)\[$WHITE\]\n$symbol\[$RESET\]"
 export PS2="\[$ORANGE\]→ \[$RESET\]"
@@ -71,3 +72,5 @@ export PROMPT_COMMAND='echo -ne "\033]0;${PWD##*/}\007"'
 # Include z.sh
 . ~/z.sh
 
+source /usr/local/etc/bash_completion.d/password-store
+export PATH=$PATH:/Users/michaelsharman/vagrant/salt-developer/scripts
