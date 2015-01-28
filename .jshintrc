@@ -1,0 +1,19 @@
+{
+    "browser": true,
+    "curly":true,
+    "forin": true,
+    "strict": false,
+    "trailing": true,
+    "undef":true,
+    "nomen":false,
+    "regexp": false,
+    "white": true,
+    "indent": 4,
+    "evil": true,
+    "regexdash": true,
+    "browser": true,
+    "wsh": true,
+    "trailing": true,
+    "sub": true,
+    "smarttabs": true
+}
