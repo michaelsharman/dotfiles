@@ -51,7 +51,7 @@
 #	summary = true
 
 [diff]
-    submodule = log
+	submodule = log
 
 [alias]
   co = checkout

@@ -1,0 +1,114 @@
+#!/bin/bash
+
+if [ $# -ne 1 ]; then
+    echo "$0: Missing argument [up|down]"
+    exit 1
+fi
+
+# the ssh control socket
+tunnel_ctrl=$HOME/.tunnel_ctrl
+
+# get the user from the bridged user in the salt-states
+proxy_user=`cat /srv/salt-states/pillar/env_development/bridged_user.sls | cut -d ' ' -f 2`
+proxy_host=$proxy_user@csgo.lninfra.net
+
+# the rules to find all the hosts and in the interface to use
+mysql_ip=127.1.0.1
+mysql_hosts="db-.*.int.lninfra.net"
+
+pgsql_ip=127.1.0.2
+pgsql_hosts="int-pgsql[a-zA-Z0-9.]*"
+
+msg_ip=127.1.0.3
+msg_hosts="int-msg[a-zA-Z0-9.]*"
+
+# sql ip is for legacy dsns that assume pgsql and mysql are on same box
+sql_ip=127.1.0.3
+
+# /etc/hosts handler functions
+function add_hosts {
+    for host in "${!1}"; do
+        grep -q "$host" /etc/hosts
+        if [ $? -ne 0 ]; then
+            echo $2 $host | sudo tee -a /etc/hosts
+        fi
+    done
+}
+
+function remove_hosts {
+    for host in "${!1}"; do
+        h="/$host/d"
+        sudo sed -i $h /etc/hosts
+        echo "$2 $host"
+    done
+}
+
+function edit_hosts {
+    case $1 in
+    add)
+        add_hosts $2 $3
+        ;;
+    del)
+        remove_hosts $2 $3
+        ;;
+    esac
+}
+
+function pillar_dsns {
+    hosts=( `grep -rhoE $2 /srv/salt-states/pillar/env_development | sort | uniq` )
+    edit_hosts $1 hosts[@] $3 
+}
+
+function consumer_dsns {
+    hosts=( `curl -s http://localhost:8900/datasource | grep host | cut -d '"' -f 4 | sed '/^$/d' | sort | uniq` )
+    edit_hosts $1 hosts[@] $2
+}
+
+# handles the args
+case $1 in
+up)
+    if [ -S $tunnel_ctrl  ]; then
+        echo -e "\e[31mConnection already established...\e[0m\n"
+    else
+        # start tunnel early so that consumersapi can be queried
+        echo -en "\e[33mConnecting SSH tunnel: "
+        ssh $proxy_host -M -S $tunnel_ctrl -f -N \
+            -L $mysql_ip:3306:int-sql1.int.lninfra.net:3306 \
+            -L $pgsql_ip:5432:int-pgsqla1.int.lninfra.net:5432 \
+            -L $msg_ip:9092:int-msg1.int.lninfra.net:9092 \
+            -L $sql_ip:3306:int-sql1.int.lninfra.net:3306 \
+            -L $sql_ip:5432:int-pgsqla1.int.lninfra.net:5432 
+        echo -e "\e[32mdone.\e[0m"
+    fi
+
+    # add /etc/hosts entries for what we found
+    echo -e "\e[33mAdding loopback DNS records: \e[0m"
+    pillar_dsns add $mysql_hosts $mysql_ip
+    pillar_dsns add $pgsql_hosts $pgsql_ip
+    pillar_dsns add $msg_hosts $msg_ip
+    consumer_dsns add $sql_ip
+    echo -e "\e[32mdone\n\e[0m"
+    ;;
+down)
+    # remove /etc/hosts entries for what we found
+    # consumer_dsns go first else the consumersapi be disconnected
+    echo -e "\e[33mRemoving loopback DNS records: \e[0m"
+    consumer_dsns del $sql_ip
+    pillar_dsns del $mysql_hosts $mysql_ip
+    pillar_dsns del $pgsql_hosts $pgsql_ip
+    pillar_dsns del $msg_hosts $msg_ip
+    echo -e "\e[32mdone\n\e[0m"
+
+    # stop the tunnel if there is one currently running
+    if [ -S $tunnel_ctrl  ]; then
+        echo -en "\e[33mDisconnecting SSH tunnel: "
+        ssh -S $tunnel_ctrl -O exit $proxy_host 2> /dev/null
+        echo -e "\e[32mdone.\e[0m"
+    else
+        echo -e "\e[31mNo existing connection found...\e[0m\n"
+    fi
+    ;;
+*)
+    echo "\e[31mIllegal argument.\e[0m [up|down]"
+    ;;
+esac

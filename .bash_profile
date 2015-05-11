@@ -1,9 +1,8 @@
 
-export PATH="/usr/local/bin:/usr/local/sbin:/usr/local/mysql/bin:/opt/local/bin:/opt/local/sbin:/opt/php/bin:/Library/Java/Extensions/mysql-connector-java-5.1.31-bin.jar:/usr/local/share/npm/bin:/usr/local:/Users/michaelsharman/pear/bin:/usr/lib/php/pear:/Users/michaelsharman/vagrant/salt-developer/scripts:$PATH"
+export PATH="/usr/local/bin:/usr/local/sbin:/usr/local/mysql/bin:/opt/local/bin:/opt/local/sbin:/Library/Java/Extensions/mysql-connector-java-5.1.31-bin.jar:/usr/local/share/npm/bin:/usr/local:/Users/michaelsharman/pear/bin:/usr/lib/php/pear:/Users/michaelsharman/vagrant/salt-developer/scripts:~/.composer/vendor/bin:/Users/michaelsharman/Documents/workspaces/_lib/dotfiles/tunnel:$PATH"
 
-export PATH="$(brew --prefix php55)/bin:$PATH"
-export PATH="$(brew --prefix php54)/bin:$PATH"
 #export PATH="$(brew --prefix homebrew/php/php53)/bin:$PATH"
+export PATH="$(brew --prefix homebrew/php/php56)/bin:$PATH"
 
 export SVN_EDITOR=vi
 
@@ -40,6 +39,6 @@ export HISTFILESIZE=1000000000
 export HISTSIZE=1000000
 export WORKON_HOME=~/.virtualenvs
 #source /usr/local/bin/virtualenvwrapper
-export PATH="$HOME/.rbenv/bin:$PATH"
+#export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"
-export PATH=$PATH:/Users/michaelsharman/vagrant/salt-developer/scripts
+export PATH=$PATH:/Users/michaelsharman/salt-developer/scripts

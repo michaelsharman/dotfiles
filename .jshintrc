@@ -15,5 +15,6 @@
     "wsh": true,
     "trailing": true,
     "sub": true,
-    "smarttabs": true
+    "smarttabs": true,
+    "predef": ["define","require"]
 }

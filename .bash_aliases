@@ -11,9 +11,7 @@ alias llh='ls -lathGhF'
 alias lt='ls -ltGhF'
 alias l.='ls -ld .*'
 alias dt="cd ~/Desktop"
-alias w='cd ~/Documents/workspaces/'
 alias h="history"
-alias spider="cd ~/Desktop/_learnosity/clients/spider\ learning/spider"
 
 alias cwd='pwd | pbcopy'
 
@@ -32,7 +30,7 @@ alias edithosts='sudo vi /etc/hosts'
 alias edithttpd='sudo vi /etc/apache2/other/localsites.conf'
 alias editssh='sudo vi ~/.ssh/config'
 
-alias salt='cd ~/vagrant/salt-developer'
+alias salt='cd ~/salt-developer'
 alias vg='vagrant'
 alias vgs='vgutil ssh'
 alias vgu='vgutil'
@@ -41,12 +39,15 @@ alias vguu='vgutil update'
 alias vguh='vgutil highstate'
 
 # Per project alias'
-alias data='cd ~/vagrant/salt-developer/code/api/data'
-alias demos='cd ~/vagrant/salt-developer/code/site/demos'
-alias docs='cd ~/vagrant/salt-developer/code/site/docs'
-alias porter='cd ~/vagrant/salt-developer/code/site/porter'
+alias data='cd ~/salt-developer/code/api/data'
+alias demos='cd ~/salt-developer/code/site/demos'
+alias docs='cd ~/salt-developer/code/site/docs'
+alias porter='cd ~/salt-developer/code/site/porter'
 alias postman='cd ~/Documents/workspaces/postman'
-alias workspaces='cd ~/Documents/workspaces'
+alias w='cd ~/Documents/workspaces'
+alias author='cd ~/salt-developer/code/api/author'
+alias 31='cd ~/Documents/workspaces/chapter31.com'
+alias ms='cd ~/Documents/workspaces/michaelsharman.com'
 
 # Flush Directory Service cache
 alias flush="dscacheutil -flushcache && killall -HUP mDNSResponder"

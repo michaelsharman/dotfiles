@@ -72,5 +72,5 @@ export PROMPT_COMMAND='echo -ne "\033]0;${PWD##*/}\007"'
 # Include z.sh
 . ~/z.sh
 
-source /usr/local/etc/bash_completion.d/password-store
+#source /usr/local/etc/bash_completion.d/password-store
 export PATH=$PATH:/Users/michaelsharman/vagrant/salt-developer/scripts
